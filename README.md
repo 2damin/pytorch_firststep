@@ -1,2 +1,9 @@
 # pytorch_firststep
-First step to PyTorch
+
+- tensor tutorial
+
+    - generate tensor
+    - sum,sub,mul
+    - transpose, reshape, stack
+    - indexing, slicing
+    - concatenate
